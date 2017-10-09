@@ -1,0 +1,14 @@
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\bin\Release\Mbed.RPC.Serial.exe.manifest
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\bin\Release\Mbed.RPC.Serial.application
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\bin\Release\Mbed.RPC.Serial.exe
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\bin\Release\Mbed.RPC.Serial.pdb
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\bin\Release\Mbed.RPC.Library.dll
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\bin\Release\Mbed.RPC.Library.pdb
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.csprojResolveAssemblyReference.cache
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.SerialRPCForm.resources
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.Properties.Resources.resources
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.csproj.GenerateResource.Cache
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.exe.manifest
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.application
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.exe
+C:\Users\Kehinde Aina\Dropbox\Envy-Desktop\4180\Lab4\Mbed.RPC.NET\Mbed.RPC.Serial\obj\Release\Mbed.RPC.Serial.pdb
